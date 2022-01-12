@@ -15,8 +15,7 @@
 gitコマンドにてファイルを配置します。
 
 ```
-$ mkdir -p ~/rails5.2 && cd ~/rails5.2
-$ git clone git@github.com:reflet/docker-rails5.2.git .
+$ git clone git@github.com:yoshinari1356/docker_rails_work.git
 ```
 
 　
